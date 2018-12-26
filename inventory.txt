@@ -1,0 +1,5 @@
+1 pens 10 200
+2 books 20 150
+3 pencils 5 200
+4 Eraser 2 300
+5 Marker 12 270
