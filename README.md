@@ -1,2 +1,2 @@
 # InvetoryManagementSystem
-Basic Inventory Management System
+Basic Inventory Management System application
